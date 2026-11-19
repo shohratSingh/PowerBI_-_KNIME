@@ -1,0 +1,10 @@
+﻿ Category, City, Customer ID,Year,Quarter,Month,Day, Product,Sum of  Quantity, Region, Segment,Sum of  UnitPrice,CustomerName,OrderID,Sales
+Electronics,Delhi,C02,2026,Qtr 3,July,8,Monitor,3,Unknown,Consumer,14000,Priya Verma,1007,42000
+Electronics,Gurugram,C01,2026,Qtr 3,July,1, Laptop,2,North,Corporate,55000,Aarav Sharma,1001,110000
+Electronics,Noida,C03,2026,Qtr 3,July,3,Printer,1,East,Corporate,12000,Rohan Mehta,1003,12000
+Electronics,Noida,C03,2026,Qtr 3,July,10,Keyboard,6,West,Corporate,1500,Rohan Mehta,1009,9000
+Electronics,Unknown,C07,2026,Qtr 3,July,11, Laptop,1,North,Unknown,55000,Not Registered,1010,55000
+Furniture,Delhi,C02,2026,Qtr 3,July,2,Office Chair,1,South,Consumer,7500,Priya Verma,1002,7500
+Furniture,Faridabad,C05,2026,Qtr 3,July,6,Bookshelf,2,South,Small Business,9000,Vikram Singh,1006,18000
+Furniture,Gurugram,C06,2026,Qtr 3,July,8,Table Lamp,4,East,Consumer,1200,Ananya Gupta,1008,4800
+Unknown,Gurugram,C01,2026,Qtr 3,July,3,Desk,1,North,Corporate,15000,Aarav Sharma,1004,15000
